@@ -1,4 +1,4 @@
-### Vietnamese, Working at Japan
+### Vietnamese, working at Japan
 
 <!--
 **mrahn1234/mrahn1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
