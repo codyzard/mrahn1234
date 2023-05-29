@@ -1,5 +1,11 @@
 ### Vietnamese, working at Japan
 
+## Certificate
+- JLPT N2: 
+https://drive.google.com/file/d/1MtFtQwkmNtdYOpMBBsXoJlGY_tq8PwzL/view?usp=sharing
+- AWS Solution Architect Associate (SAA)
+https://www.credly.com/badges/f6f673f6-69bf-498d-98ae-eaf3dd08c7bd/public_url
+
 <!--
 **mrahn1234/mrahn1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
